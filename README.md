@@ -8,7 +8,7 @@ Beteiligte Organisationen und Coaches:
 
 Bundesamt für Bevölkerungsschutz u. Katastrophenhilfe, Feuerwehr Borchen, Universität Paderborn-C.I.K.
 
-![Goeffel](/images/Goeffel.jpg)
-![Flasche](/images/Flasche.jpg)
-![Karte](/images/Karte.jpg)
-![Karabiner](/images/Karabiner.jpg)
+![Goeffel](/images/Goeffel.png)
+![Flasche](/images/Flasche.png)
+![Karte](/images/Karte.png)
+![Karabiner](/images/Karabiner.png)
